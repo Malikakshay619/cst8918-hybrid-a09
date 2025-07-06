@@ -1,17 +1,3 @@
-💯 Perfect—let’s make a **professional README.md** for your repo that Robert will love ✅
-
-This will include:
-
-* 📦 Project overview
-* 🚀 Features (Husky + GitHub Actions)
-* 📂 Folder structure
-* 🛠️ Setup instructions
-* 👨‍💻 Author details
-
----
-
-## 📄 Suggested `README.md`
-
 ```markdown
 # CST8918 - Hybrid-A09: Terraform AKS Deployment with CI/CD
 
