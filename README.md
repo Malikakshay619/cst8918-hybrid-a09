@@ -1,9 +1,11 @@
 ```markdown
+```
 # CST8918 - Hybrid-A09: Terraform AKS Deployment with CI/CD
 
 This project was created for the CST8918 - DevOps: Infrastructure as Code course under Prof. Robert McKenney. It demonstrates a complete Infrastructure as Code (IaC) workflow using **Terraform**, **Husky**, and **GitHub Actions**.
 
 ---
+```
 ```
 ## 📦 Project Overview
 
