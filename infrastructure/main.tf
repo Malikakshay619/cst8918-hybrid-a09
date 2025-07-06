@@ -4,7 +4,7 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "rg" {
   name     = "cst8918-rg"
-  location = "East US"
+  location = "EaS
 }
 
 resource "azurerm_storage_account" "storage" {
